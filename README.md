@@ -10,6 +10,12 @@ Este projeto oferece uma ferramenta educacional para entender a arquitetura de c
 
 ---
 
+## 👩 Integrantes
+- Barbára Marcella Inácio da Silva
+- Isabela Demaria Costa Braga
+
+  ---
+
 ## 🚀 Funcionalidades Principais
 
 - **Editor de Código Assembly**: Escreva seu próprio código assembly SAP diretamente no aplicativo.
