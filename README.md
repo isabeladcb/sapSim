@@ -105,7 +105,20 @@ O aplicativo é desenvolvido em Flutter com Dart, seguindo boas práticas de arq
 ![app](https://github.com/user-attachments/assets/495ba707-1b53-4b2f-a047-a3991767a718)
 
 
-link: https://anaa-5ef90.web.app/
-
 ![image](https://github.com/user-attachments/assets/ab4dfae8-432f-4d59-91c5-9a0ac9f1416a)
 ![image](https://github.com/user-attachments/assets/dc9ee45f-7bac-4121-b9bc-3f3bc1052405)
+
+## 📹 Vídeo Demonstrativo
+
+**Link do vídeo:**
+https://youtube.com/shorts/TubGbwAnDkA?si=45Jl4ZbDBZQUlAhz
+
+---
+
+## 👾 WEB APP
+**Link web app:**
+https://anaa-5ef90.web.app/
+
+---
+
+> Projeto desenvolvido para **arquitetura de computadores I**.
