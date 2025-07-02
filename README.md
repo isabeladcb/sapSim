@@ -12,9 +12,9 @@ Este projeto oferece uma ferramenta educacional para entender a arquitetura de c
 
 ## 👩 Integrantes
 - Barbára Marcella Inácio da Silva
-- Igor Vidal Meneghini 
 - Isabela Demaria Costa Braga
-- Sofia Melo do Prado Rocha Duque
+- Igor Vidal Meneghini
+- Sofia Melo do Prado Rocha Duque
 
   ---
 
