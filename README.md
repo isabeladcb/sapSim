@@ -108,6 +108,8 @@ O aplicativo é desenvolvido em Flutter com Dart, seguindo boas práticas de arq
 ![image](https://github.com/user-attachments/assets/ab4dfae8-432f-4d59-91c5-9a0ac9f1416a)
 ![image](https://github.com/user-attachments/assets/dc9ee45f-7bac-4121-b9bc-3f3bc1052405)
 
+---
+
 ## 📹 Vídeo Demonstrativo
 
 **Link do vídeo:**
